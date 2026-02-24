@@ -51,11 +51,11 @@ key attributes are :
 # 📊 Dashboards
 ---
 - Title: OPTIMIZING IT SUPPORT TEAM USING PERFORMANCE USING ANALYTICS
-- Recommendations:
-- To improve IT support team efficiency:
-- provide more training for agents to solve security related issues
-- give more priority to solving of high priority tickects
-- Allocate more agents across regional wise to workloads
+ - Recommendations:
+   - To improve IT support team efficiency:
+     - provide training for agents to solve security related issues
+     - give more priority to solve high priority tickects
+     - Allocate more agents across regional wise to workloads
 
 # 📍 Key insights
 ---
